@@ -39,7 +39,11 @@ Each batch runs around 10 weeks where club attendees form groups to research and
 
 我們想利用十週的時間，將Code.org的電腦科學基礎教材裡最核心的觀念用有趣的方式帶領沒有程式背景的女生，透過不插電再上機練習引起大家學習興趣。我們也希望在台北以外的新竹與宜蘭，接觸與讓更多10歲以上不分專業與背景的女生跟我們一起跨領域學習。在團體專案的發想過程中，我們利用設計思考的元素與CSD第四單元的教案引導，讓大家可以運用課程所學到的解決問題技巧及數位設計能力實際在app lab中製作擬真原型。
 
+課程表：
+https://drive.google.com/file/d/1o86O1i9Lruu2poiadeymbfNuTaQeGDjL/view?usp=sharing
+
 <h2>新竹營隊一成員與專案</h2>
+
 健康減重：Astrid(Kuan-Hua) Lo, Emily Chang
 美夢成真(Master Your Time): Vivian Chen, 鄭如芬
 如何改變家中的凌亂: Peter Chen, Any Chen, Mimi Chen

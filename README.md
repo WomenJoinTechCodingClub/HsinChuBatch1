@@ -47,7 +47,7 @@ Each batch runs around 10 weeks where club attendees form groups to research and
 
 
 <h2>簡報檔案</h2>
-[簡報檔案連結](https://drive.google.com/open?id=1jQprwX0S8qiefMSG_jEq8PvDvhUJ7E4f "簡報檔案").
+https://drive.google.com/open?id=1jQprwX0S8qiefMSG_jEq8PvDvhUJ7E4f
 
 <h2>App Demo Links</h2>
 健康減重:https://goo.gl/3LfasG

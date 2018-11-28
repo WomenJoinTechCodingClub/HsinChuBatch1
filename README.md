@@ -12,7 +12,7 @@ At the age where every job is related to tech, we’d like to provide more women
 
 <h2>Organizers</h2>
 Ladies that UX
-社團法⼈人⼥女⼒力科技⽤用⼾戶發展協會
+社團法⼈女⼒力科技用⼾發展協會
 
 Partner Orgs:
 Women Who Code Taipei; Ladies that UX Taipei

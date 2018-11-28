@@ -26,6 +26,7 @@ The coding clubs run from July’18-April’19
 <h2>Project Implementation</h2>
 
 (1)Train the Trainer:
+
 1. There will be 2 training sessions to help volunteer trainers to
 understand the basics of the computer science(CS)
 2. There will be at a minimum 4 sessions for trainers past the basic
@@ -33,6 +34,7 @@ training to conduct project based challenges from open source course materials s
 3. To encourage more young talents to join our clubs as coding eduction trainer, we will try to retain the top performing trainers by providing them more salary and rotate into various clubs for long term support/contribution that would lead them to be the seed teachers for the future k12 STEM education system.
 
 (2) Clubs in Batches:
+
 Each batch runs around 10 weeks where club attendees form groups to research and define an issue to create CS impact projects followed by a demo evening. We’ll try to get awards from sponsors and honor them on our website or Facebook page. They learn CS concepts through lessons in various programming languages(ex: javascript, python), identify responsibilities within groups, design the wireframe and build projects. At the end of the batch, we will make them upload the project results on GitHub or YouTube and each team will perform a 5 mins presentation publicly.
 
 <h2>為什麼要做這樣的十周營隊？</h2>

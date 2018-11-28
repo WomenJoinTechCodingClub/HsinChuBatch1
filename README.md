@@ -18,8 +18,7 @@ Partner Orgs:
 Women Who Code Taipei; Ladies that UX Taipei
 
 Sponsors:
-Give2Asia Foundation
-Synopsys Foundation
+Give2Asia Foundation; Synopsys Foundation
 
 <h2>Expected Execution Timeframe</h2>
 The coding clubs run from July’18-April’19

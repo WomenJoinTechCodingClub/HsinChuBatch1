@@ -4,11 +4,11 @@
 Women Join Tech新竹 Coding Club Batch 1 由Women Who Code Taipei與女力科技用戶發展協會(Ladies that UX)合作執行，美國的Give2Asia基金會及Synopsys新思科技贊助舉辦。十週的課程內容包含有code.org的電腦科學基礎課程，社會創新與解決方案探討及app實作。Ex: CS Fundamentals, CS Discoveries 2018部分內容及設計解決專案引導。
 
 <h2>Background</h2>
-
+ t
 Digital Skills and Computational Thinking are Needed for Women in All Generation, Especially for Families with Lower Income and Cities outside of Taipei.
-Accessing to opportunities is key to help girls/women build skills for the future of work without economical concerns. We’d love to utilize our past experiences of growing the women in tech communities and efforts in coding education to start build community based coding clubs in a pilot towns/cities such as Yilan, ShenKeng(New Taipei City) or Kaohsiung in 2018.
+Accessing to opportunities is key to help girls/women build skills for the future of work without economical concerns. We’d love to utilize our past experiences of growing the women in tech communities and efforts in coding education to start to build community based coding clubs in a few pilot towns/cities such as Yilan, ShenKeng(New Taipei City) or Kaohsiung in 2018.
 On the most recent research report from HackerRank, 84% of the developers learn coding through self-learning. 1 in 4 developers learned to code before they could drive. The most important skills employers are looking when hiring is problem solving capability.
-At the age where every job is related to tech, we’d like to provide more women the ability to adapt to the future work no matter if they are now high school students or moms that wanted to return to work.
+In a world where every job is related to tech, we’d like to provide more women the ability to adapt to the future work no matter if they are now high school students or moms that wanted to return to work.
 
 <h2>Organizers</h2>
 Ladies that UX
@@ -39,7 +39,7 @@ Each batch runs around 10 weeks where club attendees form groups to research and
 
 <h2>為什麼要做這樣的十周營隊？</h2>
 
-我們想利用十週的時間，將Code.org的電腦科學基礎教材裡最核心的觀念用有趣的方式帶領沒有程式背景的女生，透過不插電再上機練習引起大家學習興趣。我們也希望在台北以外的新竹與宜蘭，接觸與讓更多10歲以上不分專業與背景的女生跟我們一起跨領域學習。在團體專案的發想過程中，我們利用設計思考的元素與CSD第四單元的教案引導，讓大家可以運用課程所學到的解決問題技巧及數位設計能力實際在app lab中製作擬真原型。
+我們想利用十週的時間，將Code.org的電腦科學基礎教材裡最核心的觀念用有趣的方式帶領沒有程式背景的女生，透過不插電再上機練習引起大家學習興趣。我們也希望在台北以外的新竹與宜蘭，接觸與讓更多10歲以上不分專業與背景的女生跟我們一起跨領域學習。在團體專案的發想過程中，我們利用設計思考的元素與CSD第四單元的教案引導，讓大家可以運用課程所學到的解決問題技巧及數位設計能力實際在app lab中製作擬真原型。我們也知道科技教育老師在台灣是缺乏的，但依據我們過去的教學經驗，跨領域的人才透過訓練可以更快讓大家理解運算思維及基礎電腦科學的概念。這次營隊，我們也安排了Train the Trainers的機會，嘗試師培並給予不同背景的女生轉職機會。
 
 課程表：
 https://drive.google.com/file/d/1o86O1i9Lruu2poiadeymbfNuTaQeGDjL/view?usp=sharing

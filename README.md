@@ -22,7 +22,7 @@ Give2Asia Foundation
 Synopsys Foundation
 
 <h2>Expected Execution Timeframe</h2>
-The coding clubs run biweekly from July’18-April’19
+The coding clubs run from July’18-April’19
 
 <h2>Project Implementation</h2>
 

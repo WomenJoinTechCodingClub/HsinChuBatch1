@@ -4,7 +4,6 @@
 Women Join Tech新竹 Coding Club Batch 1 由Women Who Code Taipei與女力科技用戶發展協會(Ladies that UX)合作執行，美國的Give2Asia基金會及Synopsys新思科技贊助舉辦。十週的課程內容包含有code.org的電腦科學基礎課程，社會創新與解決方案探討及app實作。Ex: CS Fundamentals, CS Discoveries 2018部分內容及設計解決專案引導。
 
 <h2>Background</h2>
- t
 Digital Skills and Computational Thinking are Needed for Women in All Generation, Especially for Families with Lower Income and Cities outside of Taipei.
 Accessing to opportunities is key to help girls/women build skills for the future of work without economical concerns. We’d love to utilize our past experiences of growing the women in tech communities and efforts in coding education to start to build community based coding clubs in a few pilot towns/cities such as Yilan, ShenKeng(New Taipei City) or Kaohsiung in 2018.
 On the most recent research report from HackerRank, 84% of the developers learn coding through self-learning. 1 in 4 developers learned to code before they could drive. The most important skills employers are looking when hiring is problem solving capability.
